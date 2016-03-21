@@ -1,0 +1,12 @@
+Added Component: Designator=CON_MC(PCBComponent_1)
+Added Component: Designator=CON_MOTOR(04x01_Conector_Male-PCB)
+Added Pin To Net: NetName=NetCON_MC_0 Pin=CON_MC-0
+Added Pin To Net: NetName=NetCON_MC_1 Pin=CON_MC-1
+Added Pin To Net: NetName=MAL Pin=CON_MC-2
+Added Pin To Net: NetName=MAH Pin=CON_MC-3
+Added Pin To Net: NetName=NetCON_MOTOR_0 Pin=CON_MOTOR-0
+Added Pin To Net: NetName=MA Pin=CON_MOTOR-1
+Added Pin To Net: NetName=VCC Pin=CON_MOTOR-2
+Added Pin To Net: NetName=GND Pin=CON_MOTOR-3
+Added Member To Class: ClassName=motor_driver Member=Component CON_MC 0022032041
+Added Member To Class: ClassName=motor_driver Member=Component CON_MOTOR 0022032041

@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Removed Pin From Net: NetName=Netdiscovery_P$90 Pin=M1_H_Bridge-1
+Added Component: Designator=M0_CON(HDR1X6)
+Added Component: Designator=M1_CON(HDR1X6)
+Added Component: Designator=M2_CON(HDR1X6)
+Added Component: Designator=M3_CON(HDR1X6)
+Added Pin To Net: NetName=GND Pin=M0_CON-3
+Added Pin To Net: NetName=VCC Pin=M0_CON-4
+Added Pin To Net: NetName=Netdiscovery_P$90 Pin=M0_CON-6
+Added Pin To Net: NetName=GND Pin=M1_CON-3
+Added Pin To Net: NetName=VCC Pin=M1_CON-4
+Added Pin To Net: NetName=GND Pin=M2_CON-3
+Added Pin To Net: NetName=VCC Pin=M2_CON-4
+Added Pin To Net: NetName=GND Pin=M3_CON-3
+Added Pin To Net: NetName=VCC Pin=M3_CON-4
+Added Pin To Net: NetName=Netdiscovery_P$11 Pin=discovery-P$11
+Added Pin To Net: NetName=Netdiscovery_P$11 Pin=M3_CON-5
+Added Net: Name=Netdiscovery_P$11
+Added Pin To Net: NetName=Netdiscovery_P$12 Pin=discovery-P$12
+Added Pin To Net: NetName=Netdiscovery_P$12 Pin=M3_CON-6
+Added Net: Name=Netdiscovery_P$12
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=discovery-P$38
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_Bridge-1
+Added Net: Name=Netdiscovery_P$38
+Added Pin To Net: NetName=Netdiscovery_P$73 Pin=discovery-P$73
+Added Pin To Net: NetName=Netdiscovery_P$73 Pin=M2_CON-6
+Added Net: Name=Netdiscovery_P$73
+Added Pin To Net: NetName=Netdiscovery_P$74 Pin=discovery-P$74
+Added Pin To Net: NetName=Netdiscovery_P$74 Pin=M2_CON-5
+Added Net: Name=Netdiscovery_P$74
+Added Pin To Net: NetName=Netdiscovery_P$75 Pin=discovery-P$75
+Added Pin To Net: NetName=Netdiscovery_P$75 Pin=M1_CON-6
+Added Net: Name=Netdiscovery_P$75
+Added Pin To Net: NetName=Netdiscovery_P$76 Pin=discovery-P$76
+Added Pin To Net: NetName=Netdiscovery_P$76 Pin=M1_CON-5
+Added Net: Name=Netdiscovery_P$76
+Added Pin To Net: NetName=Netdiscovery_P$78 Pin=discovery-P$78
+Added Pin To Net: NetName=Netdiscovery_P$78 Pin=M0_CON-5
+Added Net: Name=Netdiscovery_P$78
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_CON-1
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_H_Bridge-6
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_H_Bridge-6
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_H_Bridge-6
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_H_Bridge-6
+Added Net: Name=NetM0_CON_1
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_CON-2
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_Bridge-5
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_Bridge-5
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_Bridge-5
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_Bridge-5
+Added Net: Name=NetM0_CON_2
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_CON-1
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_H_Bridge-6
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_H_Bridge-6
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_H_Bridge-6
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_H_Bridge-6
+Added Net: Name=NetM1_CON_1
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_CON-2
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_H_Bridge-5
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_H_Bridge-5
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_H_Bridge-5
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_H_Bridge-5
+Added Net: Name=NetM1_CON_2
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_CON-1
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_H_Bridge-6
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_H_Bridge-6
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_H_Bridge-6
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_H_Bridge-6
+Added Net: Name=NetM2_CON_1
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_CON-2
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_H_Bridge-5
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_H_Bridge-5
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_H_Bridge-5
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_H_Bridge-5
+Added Net: Name=NetM2_CON_2
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_CON-1
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_Bridge-6
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_Bridge-6
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_Bridge-6
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_Bridge-6
+Added Net: Name=NetM3_CON_1
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_CON-2
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_H_Bridge-5
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_H_Bridge-5
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_H_Bridge-5
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_H_Bridge-5
+Added Net: Name=NetM3_CON_2
+Added Member To Class: ClassName=Mother_board2 Member=Component M0_CON Header 6
+Added Member To Class: ClassName=Mother_board2 Member=Component M1_CON Header 6
+Added Member To Class: ClassName=Mother_board2 Member=Component M2_CON Header 6
+Added Member To Class: ClassName=Mother_board2 Member=Component M3_CON Header 6
+Added Room: Name=Mother_board1
+Added Room: Name=Mother_board2
+Added Room: Name=Mother_board3

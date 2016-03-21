@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=03x01_Conector_Male_Shroudred-0
+Change Component Designator: OldDesignator=03x01_Conector_Male_Shroudred NewDesignator=Bat_Balance
+Added Pin To Net: NetName=GND Pin=Bat_Balance-2
+Change Net Name : Old Net Name=Net03x01_Conector_Male_Shroudred_1 New Net Name=NetBat_Balance_1
+Added Pin To Net: NetName=NetBat_Balance_0 Pin=Bat_Balance-0
+Added Pin To Net: NetName=NetBat_Balance_0 Pin=BC_R2-1
+Added Net: Name=NetBat_Balance_0
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_CON0 PPPC041LFBN-RC

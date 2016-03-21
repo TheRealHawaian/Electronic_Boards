@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetM0_FUSEX_2 Pin=M0_HB_CON1-1
+Removed Pin From Net: NetName=NetM1_FUSEX_1 Pin=M1_FUSEX-1
+Removed Pin From Net: NetName=GND Pin=M1_HB_C1-1
+Removed Pin From Net: NetName=NetM2_FUSEX_1 Pin=M2_HB_C1-1
+Removed Pin From Net: NetName=NetM2_FUSEX_2 Pin=M2_HB_CON1-1
+Removed Pin From Net: NetName=NetM3_FUSEX_1 Pin=M3_HB_C1-1
+Removed Pin From Net: NetName=NetM3_FUSEX_2 Pin=M3_HB_CON1-1
+Change Component Designator: OldDesignator=EEE-FK1C681GP-SCH NewDesignator=M0_HB_C1
+Added Pin To Net: NetName=NetM0_FUSEX_2 Pin=M0_HB_C1-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_FUSEX-2
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M1_HB_C1-2
+Added Pin To Net: NetName=NetM2_FUSEX_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M2_HB_C1-2
+Added Pin To Net: NetName=NetM2_FUSEX_1 Pin=M2_HB_CON1-1
+Added Pin To Net: NetName=NetM3_FUSEX_2 Pin=M3_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M3_HB_C1-2
+Added Pin To Net: NetName=NetM3_FUSEX_1 Pin=M3_HB_CON1-1
+Change Net Name : Old Net Name=NetM1_FUSEX_1 New Net Name=NetM1_FUSEX_2
+Added Pin To Net: NetName=NetM0_FUSEX_1 Pin=M0_FUSEX-1
+Added Pin To Net: NetName=NetM0_FUSEX_1 Pin=M0_HB_CON1-1
+Added Net: Name=NetM0_FUSEX_1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_FUSEX-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_HB_CON1-1
+Added Net: Name=NetM1_FUSEX_1

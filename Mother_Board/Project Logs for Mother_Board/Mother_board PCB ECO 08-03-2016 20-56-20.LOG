@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetLEVEL_SHIFTER_5 Pin=LS_R2-2
+Removed Pin From Net: NetName=NetLEVEL_SHIFTER_5 Pin=LS_R3-2
+Removed Pin From Net: NetName=NetLEVEL_SHIFTER_4 Pin=R1-2
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_4 Pin=LS_R2-2
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_4 Pin=LS_R3-2
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_5 Pin=R1-2
+Change Net Name : Old Net Name=NetLEVEL_SHIFTER_2 New Net Name=NetLEVEL_SHIFTER_3
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_2 Pin=LS_C4-2
+Added Net: Name=NetLEVEL_SHIFTER_2
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_6 Pin=LS_C4-1
+Added Net: Name=NetLEVEL_SHIFTER_6

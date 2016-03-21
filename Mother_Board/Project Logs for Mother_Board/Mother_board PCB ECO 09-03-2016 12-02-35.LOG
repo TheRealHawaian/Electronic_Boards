@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetM0_CON_1 Pin=M3_H_BRIDGE-7
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_BRIDGE-7

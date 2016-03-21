@@ -1,0 +1,7 @@
+Change Component Comment : Designator=M0_H_BRIDGE Old Comment=H_BRIDGE_BREAKOUT New Comment=H_BRIDGE_BREAKOUT-SCH
+Change Component Comment : Designator=M1_H_BRIDGE Old Comment=H_BRIDGE_BREAKOUT New Comment=H_BRIDGE_BREAKOUT-SCH
+Change Component Comment : Designator=M2_H_BRIDGE Old Comment=H_BRIDGE_BREAKOUT New Comment=H_BRIDGE_BREAKOUT-SCH
+Change Component Comment : Designator=M3_H_BRIDGE Old Comment=H_BRIDGE_BREAKOUT New Comment=H_BRIDGE_BREAKOUT-SCH
+Added Pin To Net: NetName=GND Pin=M1_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M2_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M3_HB_C1-1

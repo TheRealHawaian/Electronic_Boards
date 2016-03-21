@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=MAL Pin=P1-3
+Removed Pin From Net: NetName=MAH Pin=P1-4
+Removed Pin From Net: NetName=NetIC4_5 Pin=P2-1
+Removed Pin From Net: NetName=MA Pin=P2-2
+Removed Pin From Net: NetName=VCC Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Member From Class: ClassName=motor_driver Member=P1
+Removed Member From Class: ClassName=motor_driver Member=P2
+Added Component: Designator=04x01_Conector_Male(04x01_Conector_Male)
+Added Component: Designator=04x01_Conector_Male(04x01_Conector_Male)
+Added Component: Designator=04x01_Conector_Male(04x01_Conector_Male)
+Added Pin To Net: NetName=GND Pin=04x01_Conector_Male-0
+Added Pin To Net: NetName=MAH Pin=04x01_Conector_Male-0
+Added Pin To Net: NetName=MAL Pin=04x01_Conector_Male-1
+Added Pin To Net: NetName=VCC Pin=04x01_Conector_Male-1
+Added Pin To Net: NetName=MA Pin=04x01_Conector_Male-2
+Added Pin To Net: NetName=NetIC4_5 Pin=04x01_Conector_Male-3
+Change Net Name : Old Net Name=NetIC4_5 New Net Name=Net04x01_Conector_Male_3
+Added Pin To Net: NetName=Net04x01_Conector_Male_2 Pin=04x01_Conector_Male-2
+Added Pin To Net: NetName=Net04x01_Conector_Male_2 Pin=R6-1
+Added Net: Name=Net04x01_Conector_Male_2
+Added Member To Class: ClassName=motor_driver Member=Component 04x01_Conector_Male 0022272041
+Added Member To Class: ClassName=motor_driver Member=Component 04x01_Conector_Male 0022272041
+Added Member To Class: ClassName=motor_driver Member=Component 04x01_Conector_Male 0022272041
+Added Room: Name=motor_driver
+Change Rule Scope 1 : Old Scope=InNet('NetIC4_5') New Scope=InNet('Net04x01_Conector_Male_3')

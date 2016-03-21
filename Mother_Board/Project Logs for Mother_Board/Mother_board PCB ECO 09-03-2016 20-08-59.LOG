@@ -1,0 +1,9 @@
+Added Component: Designator=IC1(SOT95P280X110-6N)
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC4_2 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
+Added Member To Class: ClassName=Mother_board3 Member=Component IC1 TPS563200DDCT

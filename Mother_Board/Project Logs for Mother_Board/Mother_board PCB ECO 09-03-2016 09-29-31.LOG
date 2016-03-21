@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetLEVEL_SHIFTER_3 Pin=M0_FUSEX-1
+Removed Pin From Net: NetName=NetM0_CON_2 Pin=M0_H_BRIDGE-6
+Added Component: Designator=EEE-FK1C681GP-SCH(EEE-FK1C681GP)
+Added Component: Designator=EEE-FK1C681GP-SCH(EEE-FK1C681GP)
+Added Component: Designator=EEE-FK1C681GP-SCH(EEE-FK1C681GP)
+Added Component: Designator=EEE-FK1C681GP-SCH(EEE-FK1C681GP)
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_3 Pin=M0_H_BRIDGE-6
+Added Member To Class: ClassName=Mother_board2 Member=Component EEE-FK1C681GP-SCH 680UF/16V
+Added Member To Class: ClassName=Mother_board2 Member=Component EEE-FK1C681GP-SCH 680UF/16V
+Added Member To Class: ClassName=Mother_board2 Member=Component EEE-FK1C681GP-SCH 680UF/16V
+Added Member To Class: ClassName=Mother_board2 Member=Component EEE-FK1C681GP-SCH 680UF/16V

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=04x01_Conector_Male-0
+Removed Pin From Net: NetName=MAH Pin=04x01_Conector_Male-0
+Removed Pin From Net: NetName=MAL Pin=04x01_Conector_Male-1
+Removed Pin From Net: NetName=VCC Pin=04x01_Conector_Male-1
+Removed Pin From Net: NetName=MA Pin=04x01_Conector_Male-2
+Removed Pin From Net: NetName=Net04x01_Conector_Male_3 Pin=04x01_Conector_Male-3
+Added Pin To Net: NetName=Net04x01_Conector_Male_3 Pin=04x01_Conector_Male-0
+Added Pin To Net: NetName=MA Pin=04x01_Conector_Male-1
+Added Pin To Net: NetName=MAL Pin=04x01_Conector_Male-2
+Added Pin To Net: NetName=VCC Pin=04x01_Conector_Male-2
+Added Pin To Net: NetName=GND Pin=04x01_Conector_Male-3
+Added Pin To Net: NetName=MAH Pin=04x01_Conector_Male-3
+Change Net Name : Old Net Name=Net04x01_Conector_Male_3 New Net Name=Net04x01_Conector_Male_0
+Added Pin To Net: NetName=Net04x01_Conector_Male_1 Pin=04x01_Conector_Male-1
+Added Pin To Net: NetName=Net04x01_Conector_Male_1 Pin=R6-1
+Added Net: Name=Net04x01_Conector_Male_1
+Added Member To Class: ClassName=motor_driver Member=Component 04x01_Conector_Male 0022272041
+Added Member To Class: ClassName=motor_driver Member=Component 04x01_Conector_Male 0022272041
+Added Room: Name=motor_driver
+Change Rule Scope 1 : Old Scope=InNet('Net04x01_Conector_Male_3') New Scope=InNet('Net04x01_Conector_Male_0')

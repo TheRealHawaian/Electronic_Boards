@@ -1,0 +1,43 @@
+Added Component: Designator=M0_H_BRIDGE(H_BRIDGE_BREAKOUT)
+Added Component: Designator=M1_H_BRIDGE(H_BRIDGE_BREAKOUT)
+Added Component: Designator=M2_H_BRIDGE(H_BRIDGE_BREAKOUT)
+Added Component: Designator=M3_H_BRIDGE(H_BRIDGE_BREAKOUT)
+Added Pin To Net: NetName=Netdiscovery_P$93 Pin=M0_H_BRIDGE-0
+Added Pin To Net: NetName=Netdiscovery_P$37 Pin=M0_H_BRIDGE-1
+Added Pin To Net: NetName=Netdiscovery_P$29 Pin=M0_H_BRIDGE-2
+Added Pin To Net: NetName=Netdiscovery_P$14 Pin=M0_H_BRIDGE-3
+Added Pin To Net: NetName=NetM0_H_BRIDGE_4 Pin=M0_H_BRIDGE-4
+Added Pin To Net: NetName=NetM0_FUSEX_2 Pin=M0_H_BRIDGE-5
+Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_BRIDGE-6
+Added Pin To Net: NetName=NetM0_CON_1 Pin=M0_H_BRIDGE-7
+Added Pin To Net: NetName=Netdiscovery_P$31 Pin=M1_H_BRIDGE-0
+Added Pin To Net: NetName=Netdiscovery_P$22 Pin=M1_H_BRIDGE-1
+Added Pin To Net: NetName=Netdiscovery_P$32 Pin=M1_H_BRIDGE-2
+Added Pin To Net: NetName=Netdiscovery_P$38 Pin=M1_H_BRIDGE-3
+Added Pin To Net: NetName=NetM1_H_BRIDGE_4 Pin=M1_H_BRIDGE-4
+Added Pin To Net: NetName=NetM1_FUSEX_2 Pin=M1_H_BRIDGE-5
+Added Pin To Net: NetName=NetM1_CON_2 Pin=M1_H_BRIDGE-6
+Added Pin To Net: NetName=NetM1_CON_1 Pin=M1_H_BRIDGE-7
+Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=Netdiscovery_P$97 Pin=M2_H_BRIDGE-0
+Added Pin To Net: NetName=Netdiscovery_P$24 Pin=M2_H_BRIDGE-1
+Added Pin To Net: NetName=Netdiscovery_P$98 Pin=M2_H_BRIDGE-2
+Added Pin To Net: NetName=Netdiscovery_P$21 Pin=M2_H_BRIDGE-3
+Added Pin To Net: NetName=NetM2_H_BRIDGE_4 Pin=M2_H_BRIDGE-4
+Added Pin To Net: NetName=NetM2_FUSEX_2 Pin=M2_H_BRIDGE-5
+Added Pin To Net: NetName=NetM2_CON_2 Pin=M2_H_BRIDGE-6
+Added Pin To Net: NetName=NetM2_CON_1 Pin=M2_H_BRIDGE-7
+Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=Netdiscovery_P$95 Pin=M3_H_BRIDGE-0
+Added Pin To Net: NetName=Netdiscovery_P$36 Pin=M3_H_BRIDGE-1
+Added Pin To Net: NetName=Netdiscovery_P$96 Pin=M3_H_BRIDGE-2
+Added Pin To Net: NetName=Netdiscovery_P$35 Pin=M3_H_BRIDGE-3
+Added Pin To Net: NetName=NetM3_H_BRIDGE_4 Pin=M3_H_BRIDGE-4
+Added Pin To Net: NetName=NetM3_FUSEX_2 Pin=M3_H_BRIDGE-5
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_H_BRIDGE-6
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_H_BRIDGE-7
+Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
+Added Member To Class: ClassName=Mother_board2 Member=Component M0_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board2 Member=Component M1_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board2 Member=Component M2_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board2 Member=Component M3_H_BRIDGE H_BRIDGE_BREAKOUT-SCH

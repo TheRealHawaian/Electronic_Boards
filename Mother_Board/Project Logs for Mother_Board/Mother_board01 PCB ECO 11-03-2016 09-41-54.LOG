@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=SWITCH Old DesignItemId=E-Switch R1966ABLKBLKFR-01.A.2 New DesignItemId=R1966A-SCH
+Change Component Footprint: Designator=SWITCH Old Footprint=PCBComponent New Footprint=R1966AB-PCB
+Change Component Comment : Designator=SWITCH Old Comment=R1966AB New Comment=R1966A-SCH
+Change Component Library : Designator=SWITCH Old Library=Schlib1.SchLib New Library=Schlib1.SchLib
+Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
+Added Pin To Net: NetName=NetM2_CON_5 Pin=STM32F4-DISCOVERY-SCH-P1_24
+Added Pin To Net: NetName=NetC4_2 Pin=SWITCH-0
+Added Pin To Net: NetName=NetBat_2 Pin=Bat-2
+Added Pin To Net: NetName=NetBat_2 Pin=SWITCH-1
+Added Net: Name=NetBat_2

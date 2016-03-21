@@ -1,0 +1,6 @@
+Added Component: Designator=M3_HB_CON1(04x01_Conector_Female)
+Added Pin To Net: NetName=GND Pin=M3_HB_CON1-0
+Added Pin To Net: NetName=NetM3_FUSEX_1 Pin=M3_HB_CON1-1
+Added Pin To Net: NetName=NetM3_CON_2 Pin=M3_HB_CON1-2
+Added Pin To Net: NetName=NetM3_CON_1 Pin=M3_HB_CON1-3
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_HB_CON1 0022013047

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetBATTERY_CONNECTOR-SCH_0 Pin=R1966A-SCH-0
+Removed Pin From Net: NetName=NetC4_2 Pin=R1966A-SCH-1
+Added Component: Designator=R1966A-SCH(R1966AB-PCB)
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetM2_FUSEX_1 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=NetM3_FUSEX_1 Pin=M3_HB_C1-1
+Added Pin To Net: NetName=NetBATTERY_CONNECTOR-SCH_0 Pin=R1966A-SCH-0
+Added Pin To Net: NetName=NetC4_2 Pin=R1966A-SCH-1
+Added Member To Class: ClassName=Mother_board1 Member=Component R1966A-SCH

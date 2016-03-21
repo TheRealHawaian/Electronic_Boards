@@ -1,0 +1,9 @@
+Added Component: Designator=LEVEL_SHIFTER(SOT95P280X110-6N)
+Added Pin To Net: NetName=GND Pin=LEVEL_SHIFTER-1
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_2 Pin=LEVEL_SHIFTER-2
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_3 Pin=LEVEL_SHIFTER-3
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_4 Pin=LEVEL_SHIFTER-4
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_5 Pin=LEVEL_SHIFTER-5
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_6 Pin=LEVEL_SHIFTER-6
+Added Member To Class: ClassName=Mother_board3 Member=Component LEVEL_SHIFTER TPS563200DDCT
+Added Room: Name=Mother_board2

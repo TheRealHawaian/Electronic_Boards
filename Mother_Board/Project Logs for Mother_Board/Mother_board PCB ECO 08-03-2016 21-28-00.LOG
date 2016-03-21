@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetLS_C5_1 Pin=LS_L1-1
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_2 Pin=LS_L1-1
+Added Pin To Net: NetName=NetLS_C5_1 Pin=LS_L1-2

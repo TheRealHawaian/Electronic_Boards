@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=M1_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M2_HB_C1-1
+Added Pin To Net: NetName=GND Pin=M3_HB_C1-1
+Added Pin To Net: NetName=NetM2_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_24

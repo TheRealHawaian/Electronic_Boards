@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=Bat-1
+Removed Pin From Net: NetName=NetC4_2 Pin=EEE-FK1C681GP-SCH-1
+Removed Pin From Net: NetName=GND Pin=IC2_CS_M1-2
+Removed Pin From Net: NetName=GND Pin=IC2_CS_M2-1
+Removed Pin From Net: NetName=GND Pin=IC2_CS_M3-1
+Removed Pin From Net: NetName=GND Pin=IC2_CS_M3-2
+Removed Pin From Net: NetName=NetC4_2 Pin=M0_FUSEX-1
+Removed Pin From Net: NetName=NetC4_2 Pin=M1_FUSEX-1
+Removed Pin From Net: NetName=NetC4_2 Pin=M2_FUSEX-1
+Removed Pin From Net: NetName=NetC4_2 Pin=M3_FUSEX-1
+Removed Pin From Net: NetName=NetM0_H_BRIDGE_3 Pin=STM32F4-DISCOVERY-SCH-P1_14
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_22
+Removed Pin From Net: NetName=NetM2_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_24
+Removed Pin From Net: NetName=NetM0_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P1_29
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_0 Pin=STM32F4-DISCOVERY-SCH-P1_31
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P1_32
+Removed Pin From Net: NetName=NetM0_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_37
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_3 Pin=STM32F4-DISCOVERY-SCH-P1_38
+Removed Pin From Net: NetName=NetM3_H_BRIDGE_0 Pin=STM32F4-DISCOVERY-SCH-P2_45
+Removed Pin From Net: NetName=NetM3_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P2_46
+Removed Pin From Net: NetName=NetM2_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P2_48
+Removed Member From Class: ClassName=Mother_board1 Member=Bat
+Added Component: Designator=BATTERY_CONNECTOR-SCH(BATTERY_CONECTO-PCB)
+Added Pin To Net: NetName=GND Pin=BATTERY_CONNECTOR-SCH-1
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M1-2
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M2-1
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M3-1
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M3-2
+Added Pin To Net: NetName=GND Pin=M0_H_BRIDGE-4
+Added Pin To Net: NetName=GND Pin=M1_H_BRIDGE-4
+Added Pin To Net: NetName=GND Pin=M2_H_BRIDGE-4
+Added Pin To Net: NetName=GND Pin=M3_H_BRIDGE-4
+Added Pin To Net: NetName=NetM2_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_10
+Added Pin To Net: NetName=NetM2_CON_5 Pin=STM32F4-DISCOVERY-SCH-P1_24
+Added Pin To Net: NetName=NetM2_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P1_29
+Added Pin To Net: NetName=NetM3_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P1_31
+Added Pin To Net: NetName=NetM3_H_BRIDGE_0 Pin=STM32F4-DISCOVERY-SCH-P1_32
+Added Pin To Net: NetName=NetM1_H_BRIDGE_3 Pin=STM32F4-DISCOVERY-SCH-P2_11
+Added Pin To Net: NetName=NetM0_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P2_12
+Added Pin To Net: NetName=NetM1_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P2_13
+Added Pin To Net: NetName=NetM0_H_BRIDGE_3 Pin=STM32F4-DISCOVERY-SCH-P2_14
+Added Pin To Net: NetName=NetM1_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P2_45
+Added Pin To Net: NetName=NetM0_H_BRIDGE_2 Pin=STM32F4-DISCOVERY-SCH-P2_46
+Added Pin To Net: NetName=NetM1_H_BRIDGE_0 Pin=STM32F4-DISCOVERY-SCH-P2_48
+Added Pin To Net: NetName=NetBATTERY_CONNECTOR-SCH_0 Pin=BATTERY_CONNECTOR-SCH-0
+Added Pin To Net: NetName=NetBATTERY_CONNECTOR-SCH_0 Pin=SWITCH-1
+Added Net: Name=NetBATTERY_CONNECTOR-SCH_0
+Added Pin To Net: NetName=NetEEE-FK1C681GP-SCH_1 Pin=EEE-FK1C681GP-SCH-1
+Added Pin To Net: NetName=NetEEE-FK1C681GP-SCH_1 Pin=M0_FUSEX-1
+Added Net: Name=NetEEE-FK1C681GP-SCH_1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_FUSEX-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R4_CS_M0-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R4_CS_M1-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R4_CS_M2-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R4_CS_M3-1
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R5_CS_M0-2
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R5_CS_M1-2
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R5_CS_M2-2
+Added Pin To Net: NetName=NetM1_FUSEX_1 Pin=R5_CS_M3-2
+Added Net: Name=NetM1_FUSEX_1
+Added Pin To Net: NetName=NetM2_FUSEX_1 Pin=M2_FUSEX-1
+Added Pin To Net: NetName=NetM2_FUSEX_1 Pin=M2_HB_C1-1
+Added Net: Name=NetM2_FUSEX_1
+Added Pin To Net: NetName=NetM3_FUSEX_1 Pin=M3_FUSEX-1
+Added Pin To Net: NetName=NetM3_FUSEX_1 Pin=M3_HB_C1-1
+Added Net: Name=NetM3_FUSEX_1
+Added Pin To Net: NetName=NetNRF24L01_7 Pin=NRF24L01-7
+Added Pin To Net: NetName=NetNRF24L01_7 Pin=STM32F4-DISCOVERY-SCH-P1_19
+Added Net: Name=NetNRF24L01_7
+Added Member To Class: ClassName=Mother_board1 Member=Component BATTERY_CONNECTOR-SCH

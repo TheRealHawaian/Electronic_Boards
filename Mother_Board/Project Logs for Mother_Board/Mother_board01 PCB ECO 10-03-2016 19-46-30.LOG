@@ -1,0 +1,207 @@
+Removed Pin From Net: NetName=GND Pin=M0_CURRENT_SENSOR-1
+Removed Pin From Net: NetName=GND Pin=M0_CURRENT_SENSOR-2
+Removed Pin From Net: NetName=VCC Pin=M0_CURRENT_SENSOR-6
+Removed Pin From Net: NetName=GND Pin=M0_CURRENT_SENSOR-7
+Removed Pin From Net: NetName=NetC4_2 Pin=M0_CURRENT_SENSOR-8
+Removed Pin From Net: NetName=VCC Pin=M0_S_C2-1
+Removed Pin From Net: NetName=GND Pin=M0_S_C2-2
+Removed Pin From Net: NetName=NetM0_H_BRIDGE_4 Pin=M0_S_R1-2
+Removed Pin From Net: NetName=GND Pin=M0_S_R2-2
+Removed Pin From Net: NetName=GND Pin=M0_S_R3-1
+Removed Pin From Net: NetName=NetM0_H_BRIDGE_4 Pin=M0_S_R3-2
+Removed Pin From Net: NetName=VCC Pin=M1_CURRENT_SENSOR-1
+Removed Pin From Net: NetName=GND Pin=M1_CURRENT_SENSOR-2
+Removed Pin From Net: NetName=VCC Pin=M1_CURRENT_SENSOR-6
+Removed Pin From Net: NetName=GND Pin=M1_CURRENT_SENSOR-7
+Removed Pin From Net: NetName=NetC4_2 Pin=M1_CURRENT_SENSOR-8
+Removed Pin From Net: NetName=VCC Pin=M1_S_C2-1
+Removed Pin From Net: NetName=GND Pin=M1_S_C2-2
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_4 Pin=M1_S_R1-2
+Removed Pin From Net: NetName=GND Pin=M1_S_R2-2
+Removed Pin From Net: NetName=GND Pin=M1_S_R3-1
+Removed Pin From Net: NetName=NetM1_H_BRIDGE_4 Pin=M1_S_R3-2
+Removed Pin From Net: NetName=GND Pin=M2_CURRENT_SENSOR-1
+Removed Pin From Net: NetName=VCC Pin=M2_CURRENT_SENSOR-2
+Removed Pin From Net: NetName=VCC Pin=M2_CURRENT_SENSOR-6
+Removed Pin From Net: NetName=GND Pin=M2_CURRENT_SENSOR-7
+Removed Pin From Net: NetName=NetC4_2 Pin=M2_CURRENT_SENSOR-8
+Removed Pin From Net: NetName=VCC Pin=M2_S_C2-1
+Removed Pin From Net: NetName=GND Pin=M2_S_C2-2
+Removed Pin From Net: NetName=NetM2_H_BRIDGE_4 Pin=M2_S_R1-2
+Removed Pin From Net: NetName=GND Pin=M2_S_R2-2
+Removed Pin From Net: NetName=GND Pin=M2_S_R3-1
+Removed Pin From Net: NetName=NetM2_H_BRIDGE_4 Pin=M2_S_R3-2
+Removed Pin From Net: NetName=VCC Pin=M3_CURRENT_SENSOR-1
+Removed Pin From Net: NetName=VCC Pin=M3_CURRENT_SENSOR-2
+Removed Pin From Net: NetName=VCC Pin=M3_CURRENT_SENSOR-6
+Removed Pin From Net: NetName=GND Pin=M3_CURRENT_SENSOR-7
+Removed Pin From Net: NetName=NetC4_2 Pin=M3_CURRENT_SENSOR-8
+Removed Pin From Net: NetName=VCC Pin=M3_S_C2-1
+Removed Pin From Net: NetName=GND Pin=M3_S_C2-2
+Removed Pin From Net: NetName=NetM3_H_BRIDGE_4 Pin=M3_S_R1-2
+Removed Pin From Net: NetName=GND Pin=M3_S_R2-2
+Removed Pin From Net: NetName=GND Pin=M3_S_R3-1
+Removed Pin From Net: NetName=NetM3_H_BRIDGE_4 Pin=M3_S_R3-2
+Added Component: Designator=C5_CS_M0(0402-CAP)
+Added Component: Designator=C5_CS_M11(0402-CAP)
+Added Component: Designator=C5_CS_M12(0402-CAP)
+Added Component: Designator=C5_CS_M13(0402-CAP)
+Added Component: Designator=IC2_CS_M0(TSSOP10)
+Added Component: Designator=IC2_CS_M11(TSSOP10)
+Added Component: Designator=IC2_CS_M12(TSSOP10)
+Added Component: Designator=IC2_CS_M13(TSSOP10)
+Added Component: Designator=R3_CS_M0(0402-RES-HD)
+Added Component: Designator=R3_CS_M11(0402-RES-HD)
+Added Component: Designator=R3_CS_M12(0402-RES-HD)
+Added Component: Designator=R3_CS_M13(0402-RES-HD)
+Added Component: Designator=R4_CS_M0(2512-RES-HD)
+Added Component: Designator=R4_CS_M11(2512-RES-HD)
+Added Component: Designator=R4_CS_M12(2512-RES-HD)
+Added Component: Designator=R4_CS_M13(2512-RES-HD)
+Added Component: Designator=R5_CS_M0(0402-RES-HD)
+Added Component: Designator=R5_CS_M11(0402-RES-HD)
+Added Component: Designator=R5_CS_M12(0402-RES-HD)
+Added Component: Designator=R5_CS_M13(0402-RES-HD)
+Added Component: Designator=R6_CS_M0(0402-CAP)
+Added Component: Designator=R6_CS_M11(0402-CAP)
+Added Component: Designator=R6_CS_M12(0402-CAP)
+Added Component: Designator=R6_CS_M13(0402-CAP)
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-2
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M0-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-7
+Added Pin To Net: NetName=GND Pin=IC2_CS_M11-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M11-2
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M11-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M11-7
+Added Pin To Net: NetName=GND Pin=IC2_CS_M12-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M12-2
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M12-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M12-7
+Added Pin To Net: NetName=GND Pin=IC2_CS_M13-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M13-2
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M13-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M13-7
+Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
+Added Pin To Net: NetName=GND Pin=R4_CS_M0-1
+Added Pin To Net: NetName=GND Pin=R4_CS_M11-1
+Added Pin To Net: NetName=GND Pin=R4_CS_M12-1
+Added Pin To Net: NetName=GND Pin=R4_CS_M13-1
+Added Pin To Net: NetName=GND Pin=R5_CS_M0-2
+Added Pin To Net: NetName=GND Pin=R5_CS_M11-2
+Added Pin To Net: NetName=GND Pin=R5_CS_M12-2
+Added Pin To Net: NetName=GND Pin=R5_CS_M13-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M0-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M0-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M11-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M11-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M12-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M12-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M13-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M13-2
+Added Pin To Net: NetName=NetM2_CON_5 Pin=STM32F4-DISCOVERY-SCH-P1_24
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=C5_CS_M0-1
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=IC2_CS_M0-10
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=R3_CS_M0-1
+Added Net: Name=NetC5_CS_M0_1
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=C5_CS_M0-2
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=IC2_CS_M0-9
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=R5_CS_M0-1
+Added Net: Name=NetC5_CS_M0_2
+Added Pin To Net: NetName=NetC5_CS_M11_1 Pin=C5_CS_M11-1
+Added Pin To Net: NetName=NetC5_CS_M11_1 Pin=IC2_CS_M11-10
+Added Pin To Net: NetName=NetC5_CS_M11_1 Pin=R3_CS_M11-1
+Added Net: Name=NetC5_CS_M11_1
+Added Pin To Net: NetName=NetC5_CS_M11_2 Pin=C5_CS_M11-2
+Added Pin To Net: NetName=NetC5_CS_M11_2 Pin=IC2_CS_M11-9
+Added Pin To Net: NetName=NetC5_CS_M11_2 Pin=R5_CS_M11-1
+Added Net: Name=NetC5_CS_M11_2
+Added Pin To Net: NetName=NetC5_CS_M12_1 Pin=C5_CS_M12-1
+Added Pin To Net: NetName=NetC5_CS_M12_1 Pin=IC2_CS_M12-10
+Added Pin To Net: NetName=NetC5_CS_M12_1 Pin=R3_CS_M12-1
+Added Net: Name=NetC5_CS_M12_1
+Added Pin To Net: NetName=NetC5_CS_M12_2 Pin=C5_CS_M12-2
+Added Pin To Net: NetName=NetC5_CS_M12_2 Pin=IC2_CS_M12-9
+Added Pin To Net: NetName=NetC5_CS_M12_2 Pin=R5_CS_M12-1
+Added Net: Name=NetC5_CS_M12_2
+Added Pin To Net: NetName=NetC5_CS_M13_1 Pin=C5_CS_M13-1
+Added Pin To Net: NetName=NetC5_CS_M13_1 Pin=IC2_CS_M13-10
+Added Pin To Net: NetName=NetC5_CS_M13_1 Pin=R3_CS_M13-1
+Added Net: Name=NetC5_CS_M13_1
+Added Pin To Net: NetName=NetC5_CS_M13_2 Pin=C5_CS_M13-2
+Added Pin To Net: NetName=NetC5_CS_M13_2 Pin=IC2_CS_M13-9
+Added Pin To Net: NetName=NetC5_CS_M13_2 Pin=R5_CS_M13-1
+Added Net: Name=NetC5_CS_M13_2
+Added Pin To Net: NetName=NetIC2_CS_M0_4 Pin=IC2_CS_M0-4
+Added Net: Name=NetIC2_CS_M0_4
+Added Pin To Net: NetName=NetIC2_CS_M0_5 Pin=IC2_CS_M0-5
+Added Net: Name=NetIC2_CS_M0_5
+Added Pin To Net: NetName=NetIC2_CS_M0_8 Pin=IC2_CS_M0-8
+Added Net: Name=NetIC2_CS_M0_8
+Added Pin To Net: NetName=NetIC2_CS_M11_4 Pin=IC2_CS_M11-4
+Added Net: Name=NetIC2_CS_M11_4
+Added Pin To Net: NetName=NetIC2_CS_M11_5 Pin=IC2_CS_M11-5
+Added Net: Name=NetIC2_CS_M11_5
+Added Pin To Net: NetName=NetIC2_CS_M11_8 Pin=IC2_CS_M11-8
+Added Net: Name=NetIC2_CS_M11_8
+Added Pin To Net: NetName=NetIC2_CS_M12_4 Pin=IC2_CS_M12-4
+Added Net: Name=NetIC2_CS_M12_4
+Added Pin To Net: NetName=NetIC2_CS_M12_5 Pin=IC2_CS_M12-5
+Added Net: Name=NetIC2_CS_M12_5
+Added Pin To Net: NetName=NetIC2_CS_M12_8 Pin=IC2_CS_M12-8
+Added Net: Name=NetIC2_CS_M12_8
+Added Pin To Net: NetName=NetIC2_CS_M13_4 Pin=IC2_CS_M13-4
+Added Net: Name=NetIC2_CS_M13_4
+Added Pin To Net: NetName=NetIC2_CS_M13_5 Pin=IC2_CS_M13-5
+Added Net: Name=NetIC2_CS_M13_5
+Added Pin To Net: NetName=NetIC2_CS_M13_8 Pin=IC2_CS_M13-8
+Added Net: Name=NetIC2_CS_M13_8
+Added Pin To Net: NetName=NetR3_CS_M0_2 Pin=R3_CS_M0-2
+Added Pin To Net: NetName=NetR3_CS_M0_2 Pin=R4_CS_M0-2
+Added Net: Name=NetR3_CS_M0_2
+Added Pin To Net: NetName=NetR3_CS_M11_2 Pin=R3_CS_M11-2
+Added Pin To Net: NetName=NetR3_CS_M11_2 Pin=R4_CS_M11-2
+Added Net: Name=NetR3_CS_M11_2
+Added Pin To Net: NetName=NetR3_CS_M12_2 Pin=R3_CS_M12-2
+Added Pin To Net: NetName=NetR3_CS_M12_2 Pin=R4_CS_M12-2
+Added Net: Name=NetR3_CS_M12_2
+Added Pin To Net: NetName=NetR3_CS_M13_2 Pin=R3_CS_M13-2
+Added Pin To Net: NetName=NetR3_CS_M13_2 Pin=R4_CS_M13-2
+Added Net: Name=NetR3_CS_M13_2
+Added Pin To Net: NetName=NetSTM32F4-DISCOVERY-SCH_P2_19 Pin=STM32F4-DISCOVERY-SCH-P2_19
+Added Net: Name=NetSTM32F4-DISCOVERY-SCH_P2_19
+Added Pin To Net: NetName=NetSTM32F4-DISCOVERY-SCH_P2_20 Pin=STM32F4-DISCOVERY-SCH-P2_20
+Added Net: Name=NetSTM32F4-DISCOVERY-SCH_P2_20
+Change Class Name : Old Net Name=Mother_board3 New Net Name=Mother_board1
+Added Class: Name=CS_M0
+Added Class: Name=CS_M11
+Added Class: Name=CS_M12
+Added Class: Name=CS_M13
+Added Class: Name=INA220
+Added Member To Class: ClassName=Mother_board1 Member=Component EEE-FK1C681GP-SCH 680UF/16V
+Added Member To Class: ClassName=Mother_board1 Member=Component M0_CON Header 6
+Added Member To Class: ClassName=Mother_board1 Member=Component M0_FUSEX MF-MSMF250/16X
+Added Member To Class: ClassName=Mother_board1 Member=Component M0_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board1 Member=Component M1_CON Header 6
+Added Member To Class: ClassName=Mother_board1 Member=Component M1_FUSEX MF-MSMF250/16X
+Added Member To Class: ClassName=Mother_board1 Member=Component M1_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board1 Member=Component M1_HB_C1 680UF/16V
+Added Member To Class: ClassName=Mother_board1 Member=Component M2_CON Header 6
+Added Member To Class: ClassName=Mother_board1 Member=Component M2_FUSEX MF-MSMF250/16X
+Added Member To Class: ClassName=Mother_board1 Member=Component M2_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board1 Member=Component M2_HB_C1 680UF/16V
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_CON Header 6
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_FUSEX MF-MSMF250/16X
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_H_BRIDGE H_BRIDGE_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board1 Member=Component M3_HB_C1 680UF/16V
+Added Member To Class: ClassName=Mother_board1 Member=Component NRF24L01_BREAKOUT-SCH NRF24l01_BREAKOUT-SCH
+Added Member To Class: ClassName=Mother_board1 Member=Component STM32F4-DISCOVERY-SCH
+Added Room: Name=CS_M0
+Added Room: Name=CS_M11
+Added Room: Name=CS_M12
+Added Room: Name=CS_M13
+Added Rule: Name=Schematic Polygon Connect Style
+Added Rule: Name=Schematic Polygon Connect Style_1
+Added Rule: Name=Schematic Polygon Connect Style_2

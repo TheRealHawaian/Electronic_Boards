@@ -1,0 +1,97 @@
+Change Component Designator: OldDesignator=C5_CS_M3_1 NewDesignator=C5_CS_M0
+Change Component Designator: OldDesignator=C5_CS_M3_2 NewDesignator=C5_CS_M1
+Change Component Designator: OldDesignator=C5_CS_M3_3 NewDesignator=C5_CS_M2
+Change Component Designator: OldDesignator=IC2_CS_M3_1 NewDesignator=IC2_CS_M0
+Change Component Designator: OldDesignator=IC2_CS_M3_2 NewDesignator=IC2_CS_M1
+Change Component Designator: OldDesignator=IC2_CS_M3_3 NewDesignator=IC2_CS_M2
+Change Component Designator: OldDesignator=R3_CS_M3_1 NewDesignator=R3_CS_M0
+Change Component Designator: OldDesignator=R3_CS_M3_2 NewDesignator=R3_CS_M1
+Change Component Designator: OldDesignator=R3_CS_M3_3 NewDesignator=R3_CS_M2
+Change Component Designator: OldDesignator=R4_CS_M3_1 NewDesignator=R4_CS_M0
+Change Component Designator: OldDesignator=R4_CS_M3_2 NewDesignator=R4_CS_M1
+Change Component Designator: OldDesignator=R4_CS_M3_3 NewDesignator=R4_CS_M2
+Change Component Designator: OldDesignator=R5_CS_M3_1 NewDesignator=R5_CS_M0
+Change Component Designator: OldDesignator=R5_CS_M3_2 NewDesignator=R5_CS_M1
+Change Component Designator: OldDesignator=R5_CS_M3_3 NewDesignator=R5_CS_M2
+Change Component Designator: OldDesignator=R6_CS_M3_1 NewDesignator=R6_CS_M0
+Change Component Designator: OldDesignator=R6_CS_M3_2 NewDesignator=R6_CS_M1
+Change Component Designator: OldDesignator=R6_CS_M3_3 NewDesignator=R6_CS_M2
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=C5_CS_M0-1
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=C5_CS_M0-2
+Added Pin To Net: NetName=NetC5_CS_M1_1 Pin=C5_CS_M1-1
+Added Pin To Net: NetName=NetC5_CS_M1_2 Pin=C5_CS_M1-2
+Added Pin To Net: NetName=NetC5_CS_M2_1 Pin=C5_CS_M2-1
+Added Pin To Net: NetName=NetC5_CS_M2_2 Pin=C5_CS_M2-2
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-2
+Added Pin To Net: NetName=NetIC2_CS_M0_4 Pin=IC2_CS_M0-4
+Added Pin To Net: NetName=NetIC2_CS_M0_5 Pin=IC2_CS_M0-5
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M0-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M0-7
+Added Pin To Net: NetName=V+ BAT_CS_M0 Pin=IC2_CS_M0-8
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=IC2_CS_M0-9
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=IC2_CS_M0-10
+Added Pin To Net: NetName=GND Pin=IC2_CS_M1-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M1-2
+Added Pin To Net: NetName=NetIC2_CS_M1_4 Pin=IC2_CS_M1-4
+Added Pin To Net: NetName=NetIC2_CS_M1_5 Pin=IC2_CS_M1-5
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M1-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M1-7
+Added Pin To Net: NetName=V+ BAT_CS_M1 Pin=IC2_CS_M1-8
+Added Pin To Net: NetName=NetC5_CS_M1_2 Pin=IC2_CS_M1-9
+Added Pin To Net: NetName=NetC5_CS_M1_1 Pin=IC2_CS_M1-10
+Added Pin To Net: NetName=GND Pin=IC2_CS_M2-1
+Added Pin To Net: NetName=GND Pin=IC2_CS_M2-2
+Added Pin To Net: NetName=NetIC2_CS_M2_4 Pin=IC2_CS_M2-4
+Added Pin To Net: NetName=NetIC2_CS_M2_5 Pin=IC2_CS_M2-5
+Added Pin To Net: NetName=VCC Pin=IC2_CS_M2-6
+Added Pin To Net: NetName=GND Pin=IC2_CS_M2-7
+Added Pin To Net: NetName=V+ BAT_CS_M2 Pin=IC2_CS_M2-8
+Added Pin To Net: NetName=NetC5_CS_M2_2 Pin=IC2_CS_M2-9
+Added Pin To Net: NetName=NetC5_CS_M2_1 Pin=IC2_CS_M2-10
+Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
+Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
+Added Pin To Net: NetName=NetC5_CS_M0_1 Pin=R3_CS_M0-1
+Added Pin To Net: NetName=V+ BAT_CS_M0 Pin=R3_CS_M0-2
+Added Pin To Net: NetName=NetC5_CS_M1_1 Pin=R3_CS_M1-1
+Added Pin To Net: NetName=V+ BAT_CS_M1 Pin=R3_CS_M1-2
+Added Pin To Net: NetName=NetC5_CS_M2_1 Pin=R3_CS_M2-1
+Added Pin To Net: NetName=V+ BAT_CS_M2 Pin=R3_CS_M2-2
+Added Pin To Net: NetName=NetR4_CS_M0_1 Pin=R4_CS_M0-1
+Added Pin To Net: NetName=V+ BAT_CS_M0 Pin=R4_CS_M0-2
+Added Pin To Net: NetName=NetR4_CS_M1_1 Pin=R4_CS_M1-1
+Added Pin To Net: NetName=V+ BAT_CS_M1 Pin=R4_CS_M1-2
+Added Pin To Net: NetName=NetR4_CS_M2_1 Pin=R4_CS_M2-1
+Added Pin To Net: NetName=V+ BAT_CS_M2 Pin=R4_CS_M2-2
+Added Pin To Net: NetName=NetC5_CS_M0_2 Pin=R5_CS_M0-1
+Added Pin To Net: NetName=NetR4_CS_M0_1 Pin=R5_CS_M0-2
+Added Pin To Net: NetName=NetC5_CS_M1_2 Pin=R5_CS_M1-1
+Added Pin To Net: NetName=NetR4_CS_M1_1 Pin=R5_CS_M1-2
+Added Pin To Net: NetName=NetC5_CS_M2_2 Pin=R5_CS_M2-1
+Added Pin To Net: NetName=NetR4_CS_M2_1 Pin=R5_CS_M2-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M0-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M0-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M1-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M1-2
+Added Pin To Net: NetName=VCC Pin=R6_CS_M2-1
+Added Pin To Net: NetName=GND Pin=R6_CS_M2-2
+Added Pin To Net: NetName=NetM2_CON_5 Pin=STM32F4-DISCOVERY-SCH-P1_24
+Added Member To Class: ClassName=CS_M0 Member=Component C5_CS_M0 (C5) 100nF
+Added Member To Class: ClassName=CS_M1 Member=Component C5_CS_M1 (C5) 100nF
+Added Member To Class: ClassName=CS_M2 Member=Component C5_CS_M2 (C5) 100nF
+Added Member To Class: ClassName=CS_M0 Member=Component IC2_CS_M0 (IC2) INA220BIDGST
+Added Member To Class: ClassName=CS_M1 Member=Component IC2_CS_M1 (IC2) INA220BIDGST
+Added Member To Class: ClassName=CS_M2 Member=Component IC2_CS_M2 (IC2) INA220BIDGST
+Added Member To Class: ClassName=CS_M0 Member=Component R3_CS_M0 (R3) 0R
+Added Member To Class: ClassName=CS_M1 Member=Component R3_CS_M1 (R3) 0R
+Added Member To Class: ClassName=CS_M2 Member=Component R3_CS_M2 (R3) 0R
+Added Member To Class: ClassName=CS_M0 Member=Component R4_CS_M0 (R4) R2512-0R02
+Added Member To Class: ClassName=CS_M1 Member=Component R4_CS_M1 (R4) R2512-0R02
+Added Member To Class: ClassName=CS_M2 Member=Component R4_CS_M2 (R4) R2512-0R02
+Added Member To Class: ClassName=CS_M0 Member=Component R5_CS_M0 (R5) 0R
+Added Member To Class: ClassName=CS_M1 Member=Component R5_CS_M1 (R5) 0R
+Added Member To Class: ClassName=CS_M2 Member=Component R5_CS_M2 (R5) 0R
+Added Member To Class: ClassName=CS_M0 Member=Component R6_CS_M0 (R6) 100nF
+Added Member To Class: ClassName=CS_M1 Member=Component R6_CS_M1 (R6) 100nF
+Added Member To Class: ClassName=CS_M2 Member=Component R6_CS_M2 (R6) 100nF

@@ -1,0 +1,8 @@
+Added Component: Designator=M1_FUSEX(RESC4632X16N)
+Added Pin To Net: NetName=NetLEVEL_SHIFTER_2 Pin=M1_FUSEX-1
+Added Pin To Net: NetName=NetM1_FUSEX_2 Pin=M1_FUSEX-2
+Added Member To Class: ClassName=Mother_board2 Member=Component M1_FUSEX MF-MSMF250/16X
+Added Room: Name=Mother_board1
+Added Room: Name=Mother_board2
+Added Room: Name=Mother_board3
+Added Room: Name=Mother_board4

@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Mother_board1.SchDoc
+Record=SheetSymbol|SourceDocument=Mother_board1.SchDoc|Designator=CS_M0|SchDesignator=CS_M0|FileName=INA220.SchDoc|SymbolType=Normal|RawFileName=INA220.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mother_board1.SchDoc|Designator=CS_M1|SchDesignator=CS_M1|FileName=INA220.SchDoc|SymbolType=Normal|RawFileName=INA220.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mother_board1.SchDoc|Designator=CS_M2|SchDesignator=CS_M2|FileName=INA220.SchDoc|SymbolType=Normal|RawFileName=INA220.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mother_board1.SchDoc|Designator=CS_M3|SchDesignator=CS_M3|FileName=INA220.SchDoc|SymbolType=Normal|RawFileName=INA220.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

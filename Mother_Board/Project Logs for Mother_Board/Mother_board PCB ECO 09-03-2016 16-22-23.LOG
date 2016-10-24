@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=NetLEVEL_SHIFTER_3 Pin=M0_H_BRIDGE-6
-Added Pin To Net: NetName=NetLEVEL_SHIFTER_3 Pin=M0_FUSEX-1
-Added Pin To Net: NetName=NetM0_CON_2 Pin=M0_H_BRIDGE-6

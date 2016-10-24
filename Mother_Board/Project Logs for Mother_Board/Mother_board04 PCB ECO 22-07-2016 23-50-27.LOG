@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MISO Pin=NRF24L01_BREAKOUT-SCH-1
+Removed Pin From Net: NetName=VCC Pin=NRF24L01_BREAKOUT-SCH-2
+Removed Pin From Net: NetName=NRF_CE Pin=NRF24L01_BREAKOUT-SCH-3
+Removed Pin From Net: NetName=SCK Pin=NRF24L01_BREAKOUT-SCH-5
+Removed Pin From Net: NetName=MISO Pin=NRF24L01_BREAKOUT-SCH-7
+Added Component: Designator=04x02_Conector_Female(04x02_Conector_Female)
+Added Pin To Net: NetName=MISO Pin=04x02_Conector_Female-0
+Added Pin To Net: NetName=NRF_CE Pin=04x02_Conector_Female-1
+Added Pin To Net: NetName=SCK Pin=04x02_Conector_Female-2
+Added Pin To Net: NetName=MISO Pin=04x02_Conector_Female-3
+Added Pin To Net: NetName=VCC Pin=04x02_Conector_Female-4
+Added Member To Class: ClassName=Mother_board1 Member=Component 04x02_Conector_Female PPPC042LFBN-RC

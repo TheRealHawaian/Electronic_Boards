@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[motor_driver6.RUL]
+   Generated File[motor_driver6.EXTREP]
+   Generated File[motor_driver6.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:47:21 On 21/06/2016

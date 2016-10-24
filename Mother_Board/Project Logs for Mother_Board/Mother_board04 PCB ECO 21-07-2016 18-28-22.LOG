@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetCON_DM_1 Pin=DF-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=DF-1
+Added Pin To Net: NetName=NetCON_DM_1 Pin=DF-2

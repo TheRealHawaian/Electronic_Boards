@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=04x01_Conector_Male NewDesignator=CON-MC
+Change Component Designator: OldDesignator=04x01_Conector_Male NewDesignator=CON-MOTOR
+Added Member To Class: ClassName=motor_driver Member=Component CON-MOTOR 22032041

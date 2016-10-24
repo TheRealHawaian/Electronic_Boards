@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=NetC1_INAD_1 Pin=C1_INAD-1
+Added Pin To Net: NetName=NetC1_INAD_2 Pin=C1_INAD-2
+Added Pin To Net: NetName=VCC Pin=C2_INAD-1
+Added Pin To Net: NetName=GND Pin=C2_INAD-2
+Added Pin To Net: NetName=GND Pin=IC1_INAD-1
+Added Pin To Net: NetName=NetIC1_INAD_2 Pin=IC1_INAD-2
+Added Pin To Net: NetName=NetIC1_INAD_4 Pin=IC1_INAD-4
+Added Pin To Net: NetName=NetIC1_INAD_2 Pin=IC1_INAD-5
+Added Pin To Net: NetName=VCC Pin=IC1_INAD-6
+Added Pin To Net: NetName=GND Pin=IC1_INAD-7
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=IC1_INAD-8
+Added Pin To Net: NetName=NetC1_INAD_2 Pin=IC1_INAD-9
+Added Pin To Net: NetName=NetC1_INAD_1 Pin=IC1_INAD-10
+Added Pin To Net: NetName=NetDF_1 Pin=R1_INAD-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R1_INAD-2
+Added Pin To Net: NetName=NetC1_INAD_1 Pin=R2_INAD-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R2_INAD-2
+Added Pin To Net: NetName=NetC1_INAD_2 Pin=R3_INAD-1
+Added Pin To Net: NetName=NetDF_1 Pin=R3_INAD-2

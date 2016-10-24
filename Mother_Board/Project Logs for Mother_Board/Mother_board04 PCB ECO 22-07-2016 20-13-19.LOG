@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=CD-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=DF-1
+Added Pin To Net: NetName=VCC Pin=CD-1
+Added Net: Name=NetC1_INAD_1
+Added Net: Name=NetC1_INAD_2
+Added Pin To Net: NetName=NetDF_1 Pin=DF-1
+Added Net: Name=NetDF_1
+Added Net: Name=NetIC1_INAD_2
+Added Net: Name=NetIC1_INAD_4
+Added Class: Name=INAD
+Added Member To Class: ClassName=DIRECT Member=Wire NetDF_1

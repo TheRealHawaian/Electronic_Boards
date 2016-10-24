@@ -1,0 +1,34 @@
+Added Component: Designator=P1_Chute(HDR1X12)
+Added Component: Designator=P2_Chute(HDR1X12)
+Added Pin To Net: NetName=GND Pin=P1_Chute-1
+Added Pin To Net: NetName=GND Pin=P1_Chute-2
+Added Pin To Net: NetName=GND Pin=P1_Chute-3
+Added Pin To Net: NetName=GND Pin=P1_Chute-4
+Added Pin To Net: NetName=GND Pin=P1_Chute-5
+Added Pin To Net: NetName=GND Pin=P1_Chute-6
+Added Pin To Net: NetName=GND Pin=P1_Chute-7
+Added Pin To Net: NetName=GND Pin=P1_Chute-8
+Added Pin To Net: NetName=GND Pin=P1_Chute-9
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-4
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-5
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=P2_Chute-6
+Added Pin To Net: NetName=GND Pin=P2_Chute-7
+Added Pin To Net: NetName=GND Pin=P2_Chute-8
+Added Pin To Net: NetName=GND Pin=P2_Chute-9
+Added Pin To Net: NetName=GND Pin=P2_Chute-10
+Added Pin To Net: NetName=GND Pin=P2_Chute-11
+Added Pin To Net: NetName=GND Pin=P2_Chute-12
+Added Pin To Net: NetName=CA Pin=DISCO_P1-42
+Added Pin To Net: NetName=CA Pin=P1_Chute-12
+Added Net: Name=CA
+Added Pin To Net: NetName=CB Pin=DISCO_P1-40
+Added Pin To Net: NetName=CB Pin=P1_Chute-11
+Added Net: Name=CB
+Added Pin To Net: NetName=CT Pin=DISCO_P1-22
+Added Pin To Net: NetName=CT Pin=P1_Chute-10
+Added Net: Name=CT
+Added Member To Class: ClassName=Mother_board1 Member=Component P1_Chute Header 12
+Added Member To Class: ClassName=Mother_board1 Member=Component P2_Chute Header 12

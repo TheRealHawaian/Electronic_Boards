@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DA Pin=CON_DRIBLE-1
+Removed Pin From Net: NetName=DB Pin=CON_DRIBLE-2
+Added Pin To Net: NetName=DB Pin=CON_DRIBLE-1
+Added Pin To Net: NetName=DA Pin=CON_DRIBLE-2
+Added Member To Class: ClassName=DIRECT Member=Wire DA
+Added Member To Class: ClassName=DIRECT Member=Wire DB
+Added Member To Class: ClassName=DIRECT Member=Wire NetCON_DM_1

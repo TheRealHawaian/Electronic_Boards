@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=CD-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=DF-1
+Removed Member From Class: ClassName=DIRECT Member=V+ BAT_INA1
+Change Component Comment : Designator=R1_INA1 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R1_INA2 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R1_INA3 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R1_INA4 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=MC_C4 Old Comment=100nF New Comment=Cap
+Change Component Comment : Designator=MC_C5 Old Comment=100nF New Comment=Cap
+Change Component Comment : Designator=L1 Old Comment=CLF7045T New Comment=CLF7045T-4R7N-H
+Change Component Comment : Designator=CON_DRIBLE Old Comment=DRIBLE New Comment=0022112022
+Change Component Comment : Designator=IC1_INA1 Old Comment=INA220 New Comment=INA220BIDGST
+Change Component Comment : Designator=IC1_INA2 Old Comment=INA220 New Comment=INA220BIDGST
+Change Component Comment : Designator=IC1_INA3 Old Comment=INA220 New Comment=INA220BIDGST
+Change Component Comment : Designator=IC1_INA4 Old Comment=INA220 New Comment=INA220BIDGST
+Change Component Comment : Designator=06x01_Conector_Male_M0 Old Comment=MOTOR 0 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M1 Old Comment=MOTOR 1 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M2 Old Comment=MOTOR 2 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M3 Old Comment=MOTOR 3 New Comment=0022112062
+Change Component Comment : Designator=DF Old Comment=MSMF New Comment=MF-MSMF250/16X-2
+Change Component Comment : Designator=FM_M0 Old Comment=MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M1 Old Comment=MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M2 Old Comment=MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M3 Old Comment=MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=SW Old Comment=R1966A New Comment=R1966ABLKBLKGR
+Change Component Comment : Designator=IC1 Old Comment=TPS5632 New Comment=TPS563200DDCT
+Change Component Designator: OldDesignator=0R NewDesignator=R3_INA2
+Change Component Designator: OldDesignator=100nF NewDesignator=MC_C1
+Change Component Designator: OldDesignator=100nF NewDesignator=MC_C2
+Change Component Designator: OldDesignator=100nF NewDesignator=MC_C3
+Change Component Designator: OldDesignator=330R NewDesignator=RL1
+Change Component Designator: OldDesignator=330R NewDesignator=RL2
+Change Component Designator: OldDesignator=DRIBLE-MC NewDesignator=CON_DMc
+Change Component Designator: OldDesignator=DRIBLE-MOTOR NewDesignator=CON_DM
+Change Component Designator: OldDesignator=LD1117S33CTR NewDesignator=IC?
+Change Component Designator: OldDesignator=M0-MC NewDesignator=C3_M0
+Change Component Designator: OldDesignator=M0-MOTOR NewDesignator=C1_M0
+Change Component Designator: OldDesignator=M1-MC NewDesignator=C3_M1
+Change Component Designator: OldDesignator=M1-MOTOR NewDesignator=C1_M1
+Change Component Designator: OldDesignator=M2-MC NewDesignator=C3_M2
+Change Component Designator: OldDesignator=M2-MOTOR NewDesignator=C1_M2
+Change Component Designator: OldDesignator=M3-MC NewDesignator=C3_M3
+Change Component Designator: OldDesignator=M3-MOTOR NewDesignator=C1_M3
+Change Component Designator: OldDesignator=NRF_CON NewDesignator=NRF_C1
+Change Component Designator: OldDesignator=SEN1 NewDesignator=SENSOR1
+Change Component Designator: OldDesignator=SEN2 NewDesignator=SENSOR2
+Added Pin To Net: NetName=VCC Pin=CD-1
+Added Net: Name=NetC1_INAD_1
+Added Net: Name=NetC1_INAD_2
+Added Pin To Net: NetName=NetDF_1 Pin=DF-1
+Added Net: Name=NetDF_1
+Added Net: Name=NetIC1_INAD_2
+Added Net: Name=NetIC1_INAD_4
+Added Class: Name=INAD
+Added Member To Class: ClassName=M0 Member=Component C1_M0 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M1 Member=Component C1_M1 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M2 Member=Component C1_M2 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M3 Member=Component C1_M3 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M0 Member=Component C3_M0 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M1 Member=Component C3_M1 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M2 Member=Component C3_M2 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M3 Member=Component C3_M3 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=POWER Member=Component IC? LD1117S33CTR
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_C1 100nF
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_C3 100nF
+Added Member To Class: ClassName=Mother_board1 Member=Component RL2 330
+Added Member To Class: ClassName=DIRECT Member=Wire NetDF_1

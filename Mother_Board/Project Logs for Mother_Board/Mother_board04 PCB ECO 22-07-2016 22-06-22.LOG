@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=M0_MAH Pin=DISCO_P2-43
+Removed Pin From Net: NetName=M1_MAH Pin=DISCO_P2-48
+Added Pin To Net: NetName=M1_MAH Pin=DISCO_P2-43
+Added Pin To Net: NetName=M0_MAH Pin=DISCO_P2-48

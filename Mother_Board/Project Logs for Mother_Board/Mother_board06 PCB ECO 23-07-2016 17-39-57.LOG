@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SW3 Pin=DISCO_P2-36
+Removed Pin From Net: NetName=SW2 Pin=DISCO_P2-37
+Removed Pin From Net: NetName=SW1 Pin=DISCO_P2-38
+Added Pin To Net: NetName=SW1 Pin=DISCO_P2-15
+Added Pin To Net: NetName=SW2 Pin=DISCO_P2-27
+Added Pin To Net: NetName=SW3 Pin=DISCO_P2-30
+Added Member To Class: ClassName=POWER Member=Component SW R1966ABLKBLKGR

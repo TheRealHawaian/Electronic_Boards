@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=MAH Pin=CON-MC-0
+Removed Pin From Net: NetName=MAL Pin=CON-MC-1
+Removed Pin From Net: NetName=MBH Pin=CON-MC-2
+Removed Pin From Net: NetName=MBL Pin=CON-MC-3
+Removed Pin From Net: NetName=GND Pin=CON-MOTOR-0
+Removed Pin From Net: NetName=VCC Pin=CON-MOTOR-1
+Removed Pin From Net: NetName=MA Pin=CON-MOTOR-2
+Removed Pin From Net: NetName=MA_MBHB Pin=CON-MOTOR-3
+Removed Member From Class: ClassName=MBHB Member=10K
+Removed Member From Class: ClassName=MBHB Member=10R
+Removed Member From Class: ClassName=MBHB Member=100p
+Removed Member From Class: ClassName=MBHB Member=330R
+Removed Member From Class: ClassName=MBHB Member=IR4427
+Removed Member From Class: ClassName=MBHB Member=IRF7389
+Change Component Designator: OldDesignator=10K NewDesignator=R3_MAHB
+Change Component Designator: OldDesignator=10K NewDesignator=R3_MBHB
+Change Component Designator: OldDesignator=10R NewDesignator=R4_MAHB
+Change Component Designator: OldDesignator=10R NewDesignator=R4_MBHB
+Change Component Designator: OldDesignator=10R NewDesignator=R5_MAHB
+Change Component Designator: OldDesignator=10R NewDesignator=R5_MBHB
+Change Component Designator: OldDesignator=100p NewDesignator=C1_MAHB
+Change Component Designator: OldDesignator=100p NewDesignator=C1_MBHB
+Change Component Designator: OldDesignator=330R NewDesignator=R1_MAHB
+Change Component Designator: OldDesignator=330R NewDesignator=R1_MBHB
+Change Component Designator: OldDesignator=330R NewDesignator=R2_MAHB
+Change Component Designator: OldDesignator=330R NewDesignator=R2_MBHB
+Change Component Designator: OldDesignator=IR4427 NewDesignator=IR4427_MAHB
+Change Component Designator: OldDesignator=IR4427 NewDesignator=IR4427_MBHB
+Change Component Designator: OldDesignator=IRF7389 NewDesignator=IRF7389_MAHB
+Change Component Designator: OldDesignator=IRF7389 NewDesignator=IRF7389_MBHB
+Added Pin To Net: NetName=MBL Pin=CON-MC-0
+Added Pin To Net: NetName=MBH Pin=CON-MC-1
+Added Pin To Net: NetName=MAL Pin=CON-MC-2
+Added Pin To Net: NetName=MAH Pin=CON-MC-3
+Added Pin To Net: NetName=MA_MBHB Pin=CON-MOTOR-0
+Added Pin To Net: NetName=MA Pin=CON-MOTOR-1
+Added Pin To Net: NetName=VCC Pin=CON-MOTOR-2
+Added Pin To Net: NetName=GND Pin=CON-MOTOR-3
+Change Class Name : Old Net Name=motor_driver New Net Name=motor_driver2
+Added Member To Class: ClassName=MBHB Member=Component C1_MBHB (C1) 100pF
+Added Member To Class: ClassName=MBHB Member=Component IR4427_MBHB (IR4427) IR4427STRPBF
+Added Member To Class: ClassName=MBHB Member=Component IRF7389_MBHB (IRF7389) IRF7389TRPBF
+Added Member To Class: ClassName=MBHB Member=Component R1_MBHB (R1) 330R
+Added Member To Class: ClassName=MAHB Member=Component R2_MAHB (R2) 330R
+Added Member To Class: ClassName=MBHB Member=Component R2_MBHB (R2) 330R
+Added Member To Class: ClassName=MBHB Member=Component R3_MBHB (R3) 10K
+Added Member To Class: ClassName=MBHB Member=Component R4_MBHB (R4) 10R
+Added Member To Class: ClassName=MAHB Member=Component R5_MAHB (R5) 10R
+Added Member To Class: ClassName=MBHB Member=Component R5_MBHB (R5) 10R
+Added Room: Name=MAHB
+Added Room: Name=MBHB
+Added Room: Name=motor_driver2
+Change Rule Scope 1 : Old Scope=InComponent('C2_MAHB') New Scope=InComponent('C2_MBHB')

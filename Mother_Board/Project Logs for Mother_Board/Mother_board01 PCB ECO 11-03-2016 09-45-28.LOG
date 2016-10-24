@@ -1,8 +1,0 @@
-Added Component: Designator=SWITCH(R1966AB-PCB)
-Added Pin To Net: NetName=GND Pin=M1_HB_C1-1
-Added Pin To Net: NetName=GND Pin=M2_HB_C1-1
-Added Pin To Net: NetName=GND Pin=M3_HB_C1-1
-Added Pin To Net: NetName=NetM2_H_BRIDGE_1 Pin=STM32F4-DISCOVERY-SCH-P1_24
-Added Pin To Net: NetName=NetC4_2 Pin=SWITCH-0
-Added Pin To Net: NetName=NetBat_2 Pin=SWITCH-1
-Added Member To Class: ClassName=Mother_board1 Member=Component SWITCH R1966A-SCH

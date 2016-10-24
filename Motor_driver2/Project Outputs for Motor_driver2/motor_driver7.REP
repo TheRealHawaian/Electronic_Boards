@@ -1,0 +1,20 @@
+*************************************************************
+FileName = motor_driver7.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : motor_driver7.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

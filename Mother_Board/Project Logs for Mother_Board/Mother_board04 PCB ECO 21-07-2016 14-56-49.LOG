@@ -1,0 +1,42 @@
+Added Component: Designator=CD(EEE-FK1C681GP)
+Added Component: Designator=CON_DRIBLE(02x01_Conector_Male)
+Added Component: Designator=LED1(02x01_Conector_Male)
+Added Component: Designator=LED2(02x01_Conector_Male)
+Added Component: Designator=SENSOR1(02x01_Conector_Male)
+Added Component: Designator=SENSOR2(02x01_Conector_Male)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=CD-1
+Added Pin To Net: NetName=GND Pin=CD-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=SENSOR1-1
+Added Pin To Net: NetName=GND Pin=SENSOR2-1
+Change Net Name : Old Net Name=GND New Net Name=DAL
+Change Net Name : Old Net Name=VCC New Net Name=DBH
+Added Pin To Net: NetName=D_MAH Pin=DISCO_P1-39
+Added Net: Name=D_MAH
+Added Net: Name=DAH
+Added Pin To Net: NetName=DA Pin=C1-2
+Added Pin To Net: NetName=DA Pin=CON_DRIBLE-1
+Added Net: Name=DA
+Added Pin To Net: NetName=DB Pin=CON_DRIBLE-2
+Added Net: Name=DB
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=S1 Pin=DISCO_P1-7
+Added Pin To Net: NetName=S1 Pin=SENSOR1-2
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=DISCO_P1-14
+Added Pin To Net: NetName=S2 Pin=SENSOR2-2
+Added Net: Name=S2
+Added Member To Class: ClassName=Mother_board1 Member=Component C1 PPPC041LFBN-RC
+Added Member To Class: ClassName=Mother_board1 Member=Component C1 PPPC041LFBN-RC
+Added Member To Class: ClassName=Mother_board1 Member=Component CD EEE-FK1C681GP
+Added Member To Class: ClassName=Mother_board1 Member=Component CON_DRIBLE 0022112022
+Added Member To Class: ClassName=Mother_board1 Member=Component LED1 0022112022
+Added Member To Class: ClassName=Mother_board1 Member=Component LED2 0022112022
+Added Member To Class: ClassName=Mother_board1 Member=Component SENSOR1 0022112022
+Added Member To Class: ClassName=Mother_board1 Member=Component SENSOR2 0022112022

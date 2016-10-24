@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Mother_board1 Member=C1
+Added Component: Designator=CON_DMc(04x01_Conector_Female - duplicate)
+Added Component: Designator=CON_DM(04x01_Conector_Female - duplicate)
+Added Pin To Net: NetName=DAL Pin=CON_DM-0
+Added Pin To Net: NetName=NetCON_DM_1 Pin=CON_DM-1
+Added Pin To Net: NetName=DA Pin=CON_DM-2
+Added Pin To Net: NetName=DB Pin=CON_DM-3
+Added Pin To Net: NetName=DAH Pin=CON_DMc-0
+Added Pin To Net: NetName=DAL Pin=CON_DMc-1
+Added Pin To Net: NetName=DBH Pin=CON_DMc-2
+Added Pin To Net: NetName=DBH Pin=CON_DMc-3
+Added Member To Class: ClassName=Mother_board1 Member=Component CON_DMc PPPC041LFBN-RC
+Added Member To Class: ClassName=Mother_board1 Member=Component CON_DM PPPC041LFBN-RC

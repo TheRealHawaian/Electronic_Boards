@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MISO Pin=04x02_Conector_Female-3
+Removed Pin From Net: NetName=MISO Pin=DISCO_P1-18
+Change Net Name : Old Net Name=MISO New Net Name=GND
+Added Pin To Net: NetName=MISO Pin=04x02_Conector_Female-3
+Added Pin To Net: NetName=MISO Pin=DISCO_P1-18
+Added Net: Name=MISO

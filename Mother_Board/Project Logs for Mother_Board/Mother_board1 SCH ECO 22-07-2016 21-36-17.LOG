@@ -1,0 +1,45 @@
+Change Component Comment: Designator=CON_DRIBLE Old Comment=0022112022 New Comment=DRIBLE
+Change Component Comment: Designator=06x01_Conector_Male Old Comment=0022112062 New Comment=MOTOR 0
+Change Component Comment: Designator=06x01_Conector_Male Old Comment=MOTOR 0 New Comment=MOTOR 1
+Change Component Comment: Designator=06x01_Conector_Male Old Comment=MOTOR 1 New Comment=MOTOR 2
+Change Component Comment: Designator=06x01_Conector_Male Old Comment=MOTOR 2 New Comment=MOTOR 3
+Change Component Comment: Designator=MC_C4 Old Comment=Cap New Comment=100nF
+Change Component Comment: Designator=MC_C5 Old Comment=Cap New Comment=100nF
+Change Component Comment: Designator=L1 Old Comment=CLF7045T-4R7N-H New Comment=CLF7045T
+Change Component Comment: Designator=IC1 Old Comment=INA220BIDGST New Comment=INA220
+Change Component Comment: Designator=IC1 Old Comment=INA220 New Comment=INA220
+Change Component Comment: Designator=IC1 Old Comment=INA220 New Comment=INA220
+Change Component Comment: Designator=IC1 Old Comment=INA220 New Comment=INA220
+Change Component Comment: Designator=IC1 Old Comment=INA220 New Comment=INA220
+Change Component Comment: Designator=DF Old Comment=MF-MSMF250/16X-2 New Comment=MSMF
+Change Component Comment: Designator=FM Old Comment=MF-MSMF250/16X New Comment=MSMF
+Change Component Comment: Designator=FM Old Comment=MSMF New Comment=MSMF
+Change Component Comment: Designator=FM Old Comment=MSMF New Comment=MSMF
+Change Component Comment: Designator=FM Old Comment=MSMF New Comment=MSMF
+Change Component Comment: Designator=SW Old Comment=R1966ABLKBLKGR New Comment=R1966A
+Change Component Comment: Designator=R1 Old Comment=R2512-0R02 New Comment=0R02
+Change Component Comment: Designator=R1 Old Comment=0R02 New Comment=0R02
+Change Component Comment: Designator=R1 Old Comment=0R02 New Comment=0R02
+Change Component Comment: Designator=R1 Old Comment=0R02 New Comment=0R02
+Change Component Comment: Designator=R1 Old Comment=0R02 New Comment=0R02
+Change Component Comment: Designator=IC1 Old Comment=TPS563200DDCT New Comment=TPS5632
+Change Component Designator: OldDesignator=C1 NewDesignator=M0-MOTOR
+Change Component Designator: OldDesignator=M0-MOTOR NewDesignator=M1-MOTOR
+Change Component Designator: OldDesignator=M1-MOTOR NewDesignator=M2-MOTOR
+Change Component Designator: OldDesignator=M2-MOTOR NewDesignator=M3-MOTOR
+Change Component Designator: OldDesignator=C3 NewDesignator=M0-MC
+Change Component Designator: OldDesignator=M0-MC NewDesignator=M1-MC
+Change Component Designator: OldDesignator=M1-MC NewDesignator=M2-MC
+Change Component Designator: OldDesignator=M2-MC NewDesignator=M3-MC
+Change Component Designator: OldDesignator=CON_DM NewDesignator=DRIBLE-MOTOR
+Change Component Designator: OldDesignator=CON_DMc NewDesignator=DRIBLE-MC
+Change Component Designator: OldDesignator=IC? NewDesignator=LD1117S33CTR
+Change Component Designator: OldDesignator=MC_C1 NewDesignator=100nF
+Change Component Designator: OldDesignator=MC_C2 NewDesignator=100nF
+Change Component Designator: OldDesignator=MC_C3 NewDesignator=100nF
+Change Component Designator: OldDesignator=NRF_C1 NewDesignator=NRF_CON
+Change Component Designator: OldDesignator=R3 NewDesignator=0R
+Change Component Designator: OldDesignator=RL1 NewDesignator=330R
+Change Component Designator: OldDesignator=RL2 NewDesignator=330R
+Change Component Designator: OldDesignator=SENSOR1 NewDesignator=SEN1
+Change Component Designator: OldDesignator=SENSOR2 NewDesignator=SEN2

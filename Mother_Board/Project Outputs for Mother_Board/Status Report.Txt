@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Mother_Board.PrjPcb]
+   Generated File[Mother_board06.GTP]
+   Generated File[Mother_board06.RUL]
+   Generated File[Mother_board06.EXTREP]
+   Generated File[Mother_board06.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:34:36 On 09/09/2016

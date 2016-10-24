@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetBAT_0 Pin=SW-0
+Removed Pin From Net: NetName=GND Pin=SW-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=SW-1
+Removed Pin From Net: NetName=GND Pin=SW-2
+Removed Pin From Net: NetName=GND Pin=SW-3
+Removed Pin From Net: NetName=SW3 Pin=SW-4
+Removed Pin From Net: NetName=SW2 Pin=SW-5
+Removed Pin From Net: NetName=SW1 Pin=SW-6
+Removed Member From Class: ClassName=Mother_board1 Member=SW?
+Change Component DesignItemId : Designator=SW Old DesignItemId=CMP-1442-00002-1 New DesignItemId=Rocker Switch
+Change Component Footprint: Designator=SW Old Footprint=418311170803 New Footprint=R1966AB-PCB
+Change Component Library : Designator=SW Old Library=Schlib1.SchLib New Library=Schlib1.SchLib
+Added Component: Designator=SW(418311170803)
+Added Pin To Net: NetName=GND Pin=SW-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=SW-1

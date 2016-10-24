@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NRF_IRQ Pin=04x02_Conector_Female-4
+Added Pin To Net: NetName=MOSI Pin=04x02_Conector_Female-5
+Added Pin To Net: NetName=NRF_CS# Pin=04x02_Conector_Female-6

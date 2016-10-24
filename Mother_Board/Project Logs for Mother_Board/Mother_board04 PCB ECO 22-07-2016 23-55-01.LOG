@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=04x02_Conector_Female-0
+Removed Pin From Net: NetName=NRF_CE Pin=04x02_Conector_Female-1
+Removed Pin From Net: NetName=SCK Pin=04x02_Conector_Female-2
+Removed Pin From Net: NetName=MISO Pin=04x02_Conector_Female-3
+Removed Pin From Net: NetName=VCC Pin=04x02_Conector_Female-4
+Added Pin To Net: NetName=MISO Pin=04x02_Conector_Female-0
+Added Pin To Net: NetName=SCK Pin=04x02_Conector_Female-1
+Added Pin To Net: NetName=NRF_CE Pin=04x02_Conector_Female-2
+Added Pin To Net: NetName=GND Pin=04x02_Conector_Female-3
+Added Pin To Net: NetName=VCC Pin=04x02_Conector_Female-7

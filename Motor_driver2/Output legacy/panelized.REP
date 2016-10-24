@@ -1,0 +1,22 @@
+*************************************************************
+FileName = panelized.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : panelized.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+

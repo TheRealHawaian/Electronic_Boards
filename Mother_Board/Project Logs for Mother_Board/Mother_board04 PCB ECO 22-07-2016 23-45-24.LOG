@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NRF_CS# Pin=NRF24_CON-0
+Removed Pin From Net: NetName=NRF_CE Pin=NRF24_CON-1
+Removed Pin From Net: NetName=VCC Pin=NRF24_CON-2
+Removed Pin From Net: NetName=GND Pin=NRF24_CON-3
+Removed Pin From Net: NetName=NRF_IRQ Pin=NRF24_CON-4
+Removed Pin From Net: NetName=MOSI Pin=NRF24_CON-6
+Removed Pin From Net: NetName=SCK Pin=NRF24_CON-7
+Removed Member From Class: ClassName=Mother_board1 Member=NRF24_CON
+Added Component: Designator=NRF24L01_BREAKOUT-SCH(NRF24L01_BREAKOUT-PCB)
+Added Pin To Net: NetName=GND Pin=DISCO_P1-18
+Added Pin To Net: NetName=GND Pin=NRF24L01_BREAKOUT-SCH-1
+Added Pin To Net: NetName=VCC Pin=NRF24L01_BREAKOUT-SCH-2
+Added Pin To Net: NetName=NRF_CE Pin=NRF24L01_BREAKOUT-SCH-3
+Added Pin To Net: NetName=SCK Pin=NRF24L01_BREAKOUT-SCH-5
+Added Pin To Net: NetName=GND Pin=NRF24L01_BREAKOUT-SCH-7
+Change Net Name : Old Net Name=GND New Net Name=MISO
+Added Member To Class: ClassName=Mother_board1 Member=Component NRF24L01_BREAKOUT-SCH NRF24l01_BREAKOUT-SCH

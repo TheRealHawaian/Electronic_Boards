@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MA_MBHB Pin=CON-MOTOR-2
+Removed Pin From Net: NetName=MA Pin=CON-MOTOR-3
+Added Pin To Net: NetName=MA Pin=CON-MOTOR-2
+Added Pin To Net: NetName=MA_MBHB Pin=CON-MOTOR-3
+Added Room: Name=MAHB
+Added Room: Name=MBHB
+Added Room: Name=motor_driver

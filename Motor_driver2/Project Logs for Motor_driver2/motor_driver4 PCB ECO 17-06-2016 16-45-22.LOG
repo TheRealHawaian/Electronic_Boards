@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MBHB Member=R2_MAHB
+Removed Member From Class: ClassName=MAHB Member=R2_MBHB
+Removed Member From Class: ClassName=MAHB Member=R3_MBHB
+Removed Member From Class: ClassName=MAHB Member=R5_MBHB
+Added Member To Class: ClassName=MAHB Member=Component R1_MAHB (R1) 330R
+Added Member To Class: ClassName=MAHB Member=Component R3_MAHB (R3) 10K
+Change Rule Scope 1 : Old Scope=InComponent('C2_MBHB') New Scope=InComponent('C2_MAHB')

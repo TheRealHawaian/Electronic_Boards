@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCC Pin=R4_INA1-1
+Removed Pin From Net: NetName=I2C.SCL Pin=R4_INA1-2
+Removed Pin From Net: NetName=VCC Pin=R4_INA2-1
+Removed Pin From Net: NetName=I2C.SCL Pin=R4_INA2-2
+Removed Pin From Net: NetName=VCC Pin=R4_INA3-1
+Removed Pin From Net: NetName=I2C.SCL Pin=R4_INA3-2
+Removed Pin From Net: NetName=VCC Pin=R4_INA4-1
+Removed Pin From Net: NetName=I2C.SCL Pin=R4_INA4-2
+Removed Pin From Net: NetName=I2C.SDA Pin=R5_INA1-1
+Removed Pin From Net: NetName=VCC Pin=R5_INA1-2
+Removed Pin From Net: NetName=I2C.SDA Pin=R5_INA2-1
+Removed Pin From Net: NetName=VCC Pin=R5_INA2-2
+Removed Pin From Net: NetName=I2C.SDA Pin=R5_INA3-1
+Removed Pin From Net: NetName=VCC Pin=R5_INA3-2
+Removed Pin From Net: NetName=I2C.SDA Pin=R5_INA4-1
+Removed Pin From Net: NetName=VCC Pin=R5_INA4-2
+Removed Member From Class: ClassName=INA1 Member=R4_INA1
+Removed Member From Class: ClassName=INA2 Member=R4_INA2
+Removed Member From Class: ClassName=INA3 Member=R4_INA3
+Removed Member From Class: ClassName=INA4 Member=R4_INA4
+Removed Member From Class: ClassName=INA1 Member=R5_INA1
+Removed Member From Class: ClassName=INA2 Member=R5_INA2
+Removed Member From Class: ClassName=INA3 Member=R5_INA3
+Removed Member From Class: ClassName=INA4 Member=R5_INA4
+Added Component: Designator=MC_R1(0402)
+Added Component: Designator=MC_R2(0402)
+Added Pin To Net: NetName=I2C.SCL Pin=MC_R1-1
+Added Pin To Net: NetName=VCC Pin=MC_R1-2
+Added Pin To Net: NetName=I2C.SDA Pin=MC_R2-1
+Added Pin To Net: NetName=VCC Pin=MC_R2-2
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_R1 10k
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_R2 10k

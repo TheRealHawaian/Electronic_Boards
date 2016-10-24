@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetCM1_M0_1 Pin=CM1_M0-1
+Removed Pin From Net: NetName=NetCM1_M1_1 Pin=CM1_M1-1
+Removed Pin From Net: NetName=NetCM1_M2_1 Pin=CM1_M2-1
+Removed Pin From Net: NetName=NetCM1_M3_1 Pin=CM1_M3-1
+Added Component: Designator=R4_INA1(0402)
+Added Component: Designator=R4_INA2(0402)
+Added Component: Designator=R4_INA3(0402)
+Added Component: Designator=R4_INA4(0402)
+Added Component: Designator=R5_INA1(0402)
+Added Component: Designator=R5_INA2(0402)
+Added Component: Designator=R5_INA3(0402)
+Added Component: Designator=R5_INA4(0402)
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=CM1_M0-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=CM1_M1-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=CM1_M2-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=CM1_M3-1
+Added Pin To Net: NetName=VCC Pin=R4_INA1-1
+Added Pin To Net: NetName=I2C.SCL Pin=R4_INA1-2
+Added Pin To Net: NetName=VCC Pin=R4_INA2-1
+Added Pin To Net: NetName=I2C.SCL Pin=R4_INA2-2
+Added Pin To Net: NetName=VCC Pin=R4_INA3-1
+Added Pin To Net: NetName=I2C.SCL Pin=R4_INA3-2
+Added Pin To Net: NetName=VCC Pin=R4_INA4-1
+Added Pin To Net: NetName=I2C.SCL Pin=R4_INA4-2
+Added Pin To Net: NetName=VCC Pin=R5_INA1-1
+Added Pin To Net: NetName=I2C.SDA Pin=R5_INA1-2
+Added Pin To Net: NetName=VCC Pin=R5_INA2-1
+Added Pin To Net: NetName=I2C.SDA Pin=R5_INA2-2
+Added Pin To Net: NetName=VCC Pin=R5_INA3-1
+Added Pin To Net: NetName=I2C.SDA Pin=R5_INA3-2
+Added Pin To Net: NetName=VCC Pin=R5_INA4-1
+Added Pin To Net: NetName=I2C.SDA Pin=R5_INA4-2
+Change Net Name : Old Net Name=NetCM1_M0_1 New Net Name=NetFM_M0_2
+Change Net Name : Old Net Name=NetCM1_M1_1 New Net Name=NetFM_M1_2
+Change Net Name : Old Net Name=NetCM1_M2_1 New Net Name=NetFM_M2_2
+Change Net Name : Old Net Name=NetCM1_M3_1 New Net Name=NetFM_M3_2
+Added Member To Class: ClassName=INA1 Member=Component R4_INA1 (R4) 10k
+Added Member To Class: ClassName=INA2 Member=Component R4_INA2 (R4) 10k
+Added Member To Class: ClassName=INA3 Member=Component R4_INA3 (R4) 10k
+Added Member To Class: ClassName=INA4 Member=Component R4_INA4 (R4) 10k
+Added Member To Class: ClassName=INA1 Member=Component R5_INA1 (R5) 10k
+Added Member To Class: ClassName=INA2 Member=Component R5_INA2 (R5) 10k
+Added Member To Class: ClassName=INA3 Member=Component R5_INA3 (R5) 10k
+Added Member To Class: ClassName=INA4 Member=Component R5_INA4 (R5) 10k
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M0_2
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M1_2
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M2_2
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M3_2

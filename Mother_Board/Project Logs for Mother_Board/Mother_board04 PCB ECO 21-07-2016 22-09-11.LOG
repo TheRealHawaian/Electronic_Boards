@@ -1,0 +1,10 @@
+Added Component: Designator=MC_C4(0402)
+Added Component: Designator=MC_C5(0402)
+Added Pin To Net: NetName=VCC Pin=DISCO_P2-5
+Added Pin To Net: NetName=VCC Pin=DISCO_P2-6
+Added Pin To Net: NetName=GND Pin=MC_C4-1
+Added Pin To Net: NetName=VCC Pin=MC_C4-2
+Added Pin To Net: NetName=GND Pin=MC_C5-1
+Added Pin To Net: NetName=VCC Pin=MC_C5-2
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_C4 Cap
+Added Member To Class: ClassName=Mother_board1 Member=Component MC_C5 Cap

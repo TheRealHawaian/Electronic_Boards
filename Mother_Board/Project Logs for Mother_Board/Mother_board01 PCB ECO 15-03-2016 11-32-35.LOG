@@ -1,7 +1,0 @@
-Added Component: Designator=R1966A-SCH(R1966AB-PCB)
-Added Pin To Net: NetName=GND Pin=M1_HB_C1-1
-Added Pin To Net: NetName=GND Pin=M2_HB_C1-1
-Added Pin To Net: NetName=GND Pin=M3_HB_C1-1
-Added Pin To Net: NetName=NetBATTERY_CONNECTOR-SCH_0 Pin=R1966A-SCH-0
-Added Pin To Net: NetName=NetC4_2 Pin=R1966A-SCH-1
-Added Member To Class: ClassName=Mother_board1 Member=Component R1966A-SCH

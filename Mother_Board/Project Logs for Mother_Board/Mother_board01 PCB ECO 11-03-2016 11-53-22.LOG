@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetC4_2 Pin=SWITCH-0
-Removed Pin From Net: NetName=NetBat_2 Pin=SWITCH-1
-Added Pin To Net: NetName=NetC4_2 Pin=M1_HB_C1-1
-Added Pin To Net: NetName=NetC4_2 Pin=M2_HB_C1-1
-Added Pin To Net: NetName=NetC4_2 Pin=M3_HB_C1-1
-Added Pin To Net: NetName=NetM2_CON_5 Pin=STM32F4-DISCOVERY-SCH-P1_24
-Added Pin To Net: NetName=NetBat_2 Pin=SWITCH-0
-Added Pin To Net: NetName=NetC4_2 Pin=SWITCH-1

@@ -1,0 +1,16 @@
+Added Component: Designator=SW?(418311170804)
+Added Component: Designator=SW(418311170803)
+Added Pin To Net: NetName=GND Pin=SW-1
+Added Pin To Net: NetName=GND Pin=SW-2
+Added Pin To Net: NetName=GND Pin=SW-3
+Added Pin To Net: NetName=SW1 Pin=DISCO_P2-38
+Added Pin To Net: NetName=SW1 Pin=SW-6
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=DISCO_P2-37
+Added Pin To Net: NetName=SW2 Pin=SW-5
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=DISCO_P2-36
+Added Pin To Net: NetName=SW3 Pin=SW-4
+Added Net: Name=SW3
+Added Member To Class: ClassName=Mother_board1 Member=Component SW? 418311170804
+Added Member To Class: ClassName=Mother_board1 Member=Component SW 418311170803

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=M0_MAL Pin=DISCO_P2-12
+Removed Pin From Net: NetName=M0_MBL Pin=DISCO_P2-14
+Added Pin To Net: NetName=M0_MBL Pin=DISCO_P2-12
+Added Pin To Net: NetName=M0_MAL Pin=DISCO_P2-14

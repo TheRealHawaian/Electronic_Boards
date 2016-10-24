@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=EEE-FK1C681GP-SCH NewDesignator=M0_HB_C1
-Change Component Designator: OldDesignator=EEE-FK1C681GP-SCH NewDesignator=M1_HB_C1
-Change Component Designator: OldDesignator=EEE-FK1C681GP-SCH NewDesignator=M2_HB_C1
-Change Component Designator: OldDesignator=EEE-FK1C681GP-SCH NewDesignator=M3_HB_C1
-Added Member To Class: ClassName=Mother_board2 Member=Component M0_HB_C1 680UF/16V
-Added Member To Class: ClassName=Mother_board2 Member=Component M1_HB_C1 680UF/16V
-Added Member To Class: ClassName=Mother_board2 Member=Component M2_HB_C1 680UF/16V

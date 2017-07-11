@@ -1,0 +1,19 @@
+Added Component: Designator=KickR5(RES-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=KickR6(RES-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=KickR7(RES-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=KickR8(RES-0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SwC3(CAP-1206 KEMET)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component KickR5 RC0402JR-07330RL
+Added Member To Class: ClassName=Sheet1 Member=Component KickR6 RC0402JR-0710KL
+Added Member To Class: ClassName=Sheet1 Member=Component KickR7 RC0402JR-07330RL
+Added Member To Class: ClassName=Sheet1 Member=Component KickR8 RC0402JR-0710KL

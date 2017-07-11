@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CHIP_KICK Pin=KickIC1-2
+Removed Pin From Net: NetName=KICK Pin=KickIC1-4
+Added Pin To Net: NetName=KICK Pin=KickR5-1
+Added Pin To Net: NetName=GND Pin=KickR6-1
+Added Pin To Net: NetName=KICK Pin=KickR6-2
+Added Pin To Net: NetName=CHIP_KICK Pin=KickR7-1
+Added Pin To Net: NetName=GND Pin=KickR8-1
+Added Pin To Net: NetName=CHIP_KICK Pin=KickR8-2
+Added Pin To Net: NetName=NetKickIC1_2 Pin=KickIC1-2
+Added Pin To Net: NetName=NetKickIC1_2 Pin=KickR7-2
+Added Net: Name=NetKickIC1_2
+Added Pin To Net: NetName=NetKickIC1_4 Pin=KickIC1-4
+Added Pin To Net: NetName=NetKickIC1_4 Pin=KickR5-2
+Added Net: Name=NetKickIC1_4

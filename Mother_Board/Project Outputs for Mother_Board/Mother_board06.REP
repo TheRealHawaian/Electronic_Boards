@@ -2,8 +2,48 @@
 FileName = Mother_board06.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : Mother_board06_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
-      File : Mother_board06.GTP
+      File : Mother_board06_Paste_Top.gbr
 
     Adding Layer      : Top Paste
 
@@ -28,5 +68,98 @@ Used DCodes :
     D22
     D23
     D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Mother_board06_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Mother_board06_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Mother_board06_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Mother_board06_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Mother_board06_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Mother_board06_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : Mother_board06_Mechanical_29.gbr
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D50
+    D53
 *************************************************************
 

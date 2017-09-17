@@ -1,20 +1,11 @@
-Output: Gerber X2 Files
-Type  : GerberX2
-From  : Project [Mother_Board.PrjPcb]
-   Generated File[Mother_board06_Copper_Signal_Top.gbr]
-   Generated File[Mother_board06_Paste_Top.gbr]
-   Generated File[Mother_board06_Legend_Bot.gbr]
-   Generated File[Mother_board06_Soldermask_Bot.gbr]
-   Generated File[Mother_board06_Keep-out.gbr]
-   Generated File[Mother_board06_Mechanical_13.gbr]
-   Generated File[Mother_board06_Mechanical_15.gbr]
-   Generated File[Mother_board06_Mechanical_1.gbr]
-   Generated File[Mother_board06_Mechanical_29.gbr]
-   Generated File[Mother_board06.EXTREP]
-   Generated File[Mother_board06.REP]
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Mother_Board.PrjPcb]
+   Generated File[Mother_board06.BOM]
+   Generated File[Mother_board06.CSV]
 
 
-Files Generated   : 11
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 10:06:15 AM On 7/14/2017
+Finished Output Generation At 23:12:11 On 16/09/2017

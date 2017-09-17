@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\Mother_Board\Mother_board06.PcbDoc
-Date     : 23/07/2016
-Time     : 17:55:47
+PCB File : C:\Users\OniasC\Documents\GitHub\Electronic_Boards\Mother_Board\Mother_board06.PcbDoc
+Date     : 16/09/2017
+Time     : 23:29:53
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -44,4 +44,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:03
